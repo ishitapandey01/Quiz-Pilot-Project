@@ -1,4 +1,12 @@
 # Import packages
+# src/views.py or src/__init__.py
+import nltk
+
+try:
+    nltk.data.find("tokenizers/punkt")
+except LookupError:
+    nltk.download("punkt")
+
 import os
 from datetime import datetime
 

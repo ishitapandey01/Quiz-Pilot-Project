@@ -1,3 +1,6 @@
+import nltk
+nltk.download('punkt')
+
 import logging
 import re
 from typing import Tuple
