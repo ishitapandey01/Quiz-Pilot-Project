@@ -2,10 +2,17 @@
 # src/views.py or src/__init__.py
 import nltk
 
-try:
-    nltk.data.find("tokenizers/punkt")
-except LookupError:
-    nltk.download("punkt")
+# Ensure required NLTK models are available at runtime
+required_nltk_packages = ["punkt", "averaged_perceptron_tagger"]
+for package in required_nltk_packages:
+    try:
+        if package == "punkt":
+            nltk.data.find("tokenizers/punkt")
+        else:
+            nltk.data.find(f"taggers/{package}")
+    except LookupError:
+        nltk.download(package)
+
 
 import os
 from datetime import datetime

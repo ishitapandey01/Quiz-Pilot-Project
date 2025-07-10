@@ -1,4 +1,17 @@
 
+import nltk
+
+# Download necessary NLTK data at runtime
+required_nltk_packages = ["punkt", "averaged_perceptron_tagger"]
+for package in required_nltk_packages:
+    try:
+        if package == "punkt":
+            nltk.data.find("tokenizers/punkt")
+        else:
+            nltk.data.find(f"taggers/{package}")
+    except LookupError:
+        nltk.download(package)
+        
 import os
 from src import app
 
