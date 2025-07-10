@@ -2,7 +2,7 @@ pip>=23.2
 setuptools>=65.5.0
 wheel>=0.40.0
 
-https://github.com/numpy/numpy/releases/download/v1.21.4/numpy-1.21.4-cp39-cp39-manylinux2010_x86_64.whl
+numpy==1.21.4
 
 Flask==2.3.2
 nltk==3.6.6

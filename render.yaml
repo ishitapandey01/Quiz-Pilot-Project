@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: quizpilot
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn src:app
+    runtime: python
+    pythonVersion: 3.9.13
