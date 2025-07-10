@@ -9,3 +9,4 @@
 - ✍️ Lets users take the quiz and submit responses
 - 📊 Evaluates answers instantly using NLP techniques
 - ⚡ Lightweight Flask app with no database — all in-memory
+- built with Flask, HTML/CSS, JavaScript, NLTK, Pandas, Scikit-learn
