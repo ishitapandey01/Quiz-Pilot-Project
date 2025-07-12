@@ -1,0 +1,53 @@
+ISHITA PANDEY
+
+Noida, Uttar Pradesh 201306
+(+91)8005100301
+ishitasidelight@gmail.com
+
+Profiles
+
+linkedin.com/in/ishitapandey1204
+https://leetcode.com/u/IshitaPandey01/
+https://www.hackerrank.com/profile/ishitasidelight
+
+Summary
+
+A second-year Computer Science Engineering student with a good knowledge of data structures and algorithms(DSA). Passionate about solving complex problems, participating in hackathons and collaborating on innovative projects.
+
+Skills
+
+Programming Languages:C, Java, HTML, CSS, JavaScript, SQL
+
+Core subjects: Object-Oriented Programming in Java, Data Structures and Algorithms, Operating Systems, Database Management Systems
+
+Education
+
+Expected in January 2026
+GL Bajaj Institute of Technology And Management DELHI NCR
+Bachelor of Technology Computer Science in Artificial Intelligence
+
+2022
+SKD ACADEMY  LUCKNOW,UTTAR PRADESH
+Senio Secondary ISC
+
+2020
+SKD ACADEMY LUCKNOW, UTTAR PRADESH
+Matriculation ICSE
+
+Achievements
+
+Competitive Programming: Solved around 200+ questions on LeetCode, 4-star coder on HackerRank
+Virtual Internship Program, Bharat Intern, Web Development
+Palo Alto Cybersecurity Virtual Internship
+Microsoft Azure AI Workshop
+
+Projects
+
+Weather Website, Used HTML, CSS, and Javascript, and then integrated an API to fetch weather data.
+Personal Portfolio Website, Created a professional website that showcases your skills, experience and projects using HTML and CSS.
+
+Activities
+
+Participant, Smart India Hackathon 2024
+Participant, NetApp Women Innovathon, 2024, Internet of Things(IoT)
+Club Member, Rotaract Club of GL Bajaj, 2023-24

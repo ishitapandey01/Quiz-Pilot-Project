@@ -486,8 +486,10 @@
                 radio.addEventListener('change', function() {
                     if (this.value === '99') {
                         fileUpload.classList.add('show');
+                        fileUpload.style.display = 'block';
                     } else {
                         fileUpload.classList.remove('show');
+                         fileUpload.style.display = 'none';
                     }
                 });
             });
